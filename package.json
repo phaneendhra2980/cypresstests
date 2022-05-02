@@ -1,0 +1,22 @@
+{
+  "name": "cypresstests",
+  "version": "1.0.0",
+  "description": "Contains Cypress Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaneendhra2980/cypresstests.git"
+  },
+  "author": "Phaneendhra Aswani Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phaneendhra2980/cypresstests/issues"
+  },
+  "homepage": "https://github.com/phaneendhra2980/cypresstests#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
